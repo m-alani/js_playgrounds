@@ -1,3 +1,5 @@
+'use strict';
+
 let myFunction = function (text = "Nothing") {
   console.log(text);
 }
